@@ -14,6 +14,13 @@
     "text": "Italic\nBold\nBold Italic\n\nList item 1\nList item 2\n\n\nbullet 1\nbullet 2\n\nLink: My website\n\ndf <- cars\ndf\n\n   speed dist\n1      4    2\n2      4   10\n3      7    4\n4      7   22\n5      8   16\n6      9   10\n7     10   18\n8     10   26\n9     10   34\n10    11   17\n11    11   28\n12    12   14\n13    12   20\n14    12   24\n15    12   28\n16    13   26\n17    13   34\n18    13   34\n19    13   46\n20    14   26\n21    14   36\n22    14   60\n23    14   80\n24    15   20\n25    15   26\n26    15   54\n27    16   32\n28    16   40\n29    17   32\n30    17   40\n31    17   50\n32    18   42\n33    18   56\n34    18   76\n35    18   84\n36    19   36\n37    19   46\n38    19   68\n39    20   32\n40    20   48\n41    20   52\n42    20   56\n43    20   64\n44    22   66\n45    23   54\n46    24   70\n47    24   92\n48    24   93\n49    24  120\n50    25   85\n\n\nTo run each line, say for testing, use command + return.\n\n\n\n\n\n\n\n\nplot(df$speed ~ df$dist)\n\n\n\n\nYou can also embed plots, for example: Here, echo=FALSE means that the code will not be shown.\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\n\n\n\nimage(volcano, col = viridis(200, option = \"A\"))\n\n\n\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nNote that there are five types of callouts, including: note, warning, important, tip, and caution.\n\n\n\n\n\n\n\n\nTip with Title\n\n\n\nThis is an example of a callout with a title.\n\n\n\n\n\n\n\n\nExpand To Learn About Collapse\n\n\n\n\n\nThis is an example of a ‘folded’ caution callout that can be expanded by the user. You can use collapse=\"true\" to collapse it by default or collapse=\"false\" to make a collapsible callout that is expanded by default.\n\n\n\n\n\n\n\nQuarto with RStudio\nWelcome to Quarto Workshop! | Led by Tom Mock, RStudio\nMarkdown Basics"
   },
   {
+    "objectID": "posts/quartoCrashCourse.html#problems-2",
+    "href": "posts/quartoCrashCourse.html#problems-2",
+    "title": "Quarto Crash Course",
+    "section": "Problem(s) 2",
+    "text": "Problem(s) 2\n\nTime constraints and having to be efficient.\nHaving to redo a whole document only to change formatting for various purposes.\nMS Word is not necessarily the best application for writing up.\nThe need to remember data analysis/stats decisions made along the way.\n\n\n\n\n\n\n\nWhat about the audience?\n\n\nAny other similar problems?"
+  },
+  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
@@ -25,7 +32,7 @@
     "href": "index.html",
     "title": "Quarto Blog UC",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 12, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 9, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBasics of Quarto documentation\n\n\n\n\n\n\n\nquarto\n\n\ndocumentation\n\n\n\n\n\n\n\n\n\n\n\nDec 22, 2022\n\n\nUsman Afzali\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 12, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Crash Course\n\n\n\n\n\n\n\n\n\n\n\n\nApr 12, 2023\n\n\nUsman Afzali\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 9, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBasics of Quarto documentation\n\n\n\n\n\n\n\nquarto\n\n\ndocumentation\n\n\n\n\n\n\n\n\n\n\n\nDec 22, 2022\n\n\nUsman Afzali\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

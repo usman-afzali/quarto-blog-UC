@@ -1,0 +1,35 @@
+---
+title: "Quarto Crash Course"
+author: "Usman Afzali"
+institute: "University of Canterbury"
+date: 2023 04 12
+format: 
+  revealjs:
+    theme: simple
+    highlight-style: github
+    slide-number: c/t
+---
+
+# Kauhau {background-color="orange"}
+
+::: incremental
+-   What is `Quarto`?
+-   Documentation
+-   Version control, Remote repositories, and Blogging
+-   Templates
+-   Presentation
+-   Final thoughts
+:::
+
+## Problem(s) 2 {background-color="#346bc8"}
+
+-   Time constraints and having to be efficient.
+-   Having to redo a whole document only to change formatting for various purposes.
+-   MS Word is not necessarily the best application for writing up.
+-   The need to remember data analysis/stats decisions made along the way.
+
+::: callout-important
+## What about the audience?
+
+Any other similar problems?
+:::
