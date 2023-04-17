@@ -2,7 +2,7 @@
 
 This repository represents code used for demonstrating `Quarto` to students and staff at the School of Psychology, Speech and Hearing; University of Canterbury on 12 April 2023.
 
-The presentation slides are available [online](https://usman-afzali.github.io/quarto-with-rstudio/posts/quartoCrashCourse.html#/title-slide) and video can be accessed [here]().
+The presentation slides are available [online](https://usman-afzali.github.io/quarto-with-rstudio/posts/quartoCrashCourse.html#/title-slide) and video can be accessed [here](https://canterbury.zoom.us/rec/share/TFREBDJPhmBTsfwZY1IQPaFB1DLsKmgCnuADbeytfXyAEaEXbpVjVTQ78UvLGpES.jlgAzitn9YX90cAF?startTime=1681250424000).
 
 ## Received feedback for this presentation:
 1.  Thank you it was very insightful and productive.
